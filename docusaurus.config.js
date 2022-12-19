@@ -77,9 +77,6 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           disableSwitch: false,
           respectPrefersColorScheme: true,
         },
-        // This would become <meta name="keywords" content="cooking, blog"> in the generated HTML
-        // <meta name="baidu-site-verification" content="code-holTWGFhGg" />
-        metadata: [{name: 'baidu-site-verification', content: 'code-holTWGFhGg'}],
         footer: {
           // links: [
           //   {
