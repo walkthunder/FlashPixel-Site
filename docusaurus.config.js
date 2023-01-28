@@ -78,6 +78,10 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           respectPrefersColorScheme: true,
         },
         footer: {
+          links: [{
+            label: '沪ICP备2022025138号-1',
+            href: 'https://www.beian.gov.cn/portal/registerSystemInfo'
+          }],
           // links: [
           //   {
           //     title: 'DocSearch',
@@ -131,7 +135,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           //   alt: 'FlashPixel',
           //   src: 'img/assets/icon-512.png',
           // },
-          // copyright: 'FlashPixel 2022',
+          copyright: 'Powered by Rushing network Technology Co., LTD @2023',
         },
         image: 'img/og_image.png',
         prism: {
