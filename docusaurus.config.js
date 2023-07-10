@@ -9,7 +9,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
     title: 'FlashPixel',
     tagline:
       'The best image upload tool',
-    url: 'https://docsearch.algolia.com',
+    url: 'https://flashpixel.webinfra.cloud',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
     organizationName: 'FlashPixel',
